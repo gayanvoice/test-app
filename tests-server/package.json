@@ -1,0 +1,13 @@
+{
+  "name": "tests-server",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "3.2.4",
+    "uuid": "11.1.0"
+  }
+}
